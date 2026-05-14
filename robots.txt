@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /privacy.html
+
+Sitemap: https://aairsclinicandtroyssleepcenter.netlify.app/sitemap.xml
